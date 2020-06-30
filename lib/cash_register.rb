@@ -15,13 +15,7 @@ end
 
 
 
-# CashRegister
-#   ::new
-#     sets an instance variable @total on initialization to zero (FAILED - 1)
-#     optionally takes an employee discount on initialization (FAILED - 2)
-#   #total
-#     returns the current total (FAILED - 3)
-#   #add_item
+
 #     accepts a title and a price and increases the total (FAILED - 4)
 #     also accepts an optional quantity (FAILED - 5)
 #     doesn't forget about the previous total (FAILED - 6)
